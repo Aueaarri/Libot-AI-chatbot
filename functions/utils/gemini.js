@@ -1,5 +1,6 @@
 const { GoogleGenerativeAI } = require("@google/generative-ai");
 const genAI = new GoogleGenerativeAI(process.env.API_KEY);
+const axios = require("axios");
 
 const textOnly = async (prompt) => {
   // For text-only input, use the gemini-pro model
@@ -7,6 +8,7 @@ const textOnly = async (prompt) => {
   const result = await model.generateContent(prompt);
   return result.response.text();
 };
+
 
 const multimodal = async (imageBinary) => {
   // For text-and-image input (multimodal), use the gemini-pro-vision model
@@ -30,7 +32,10 @@ const multimodal = async (imageBinary) => {
 };
 
 const chat = async (prompt) => {
-  // For text-only input, use the gemini-pro model
+  const response = await axios.get("http://localhost:3000/api/info");
+  let information = await response.data
+  information = JSON.stringify(information)
+
   const model = genAI.getGenerativeModel({ model: "gemini-pro" });
   const chat = model.startChat({
     history: [
@@ -51,3 +56,5 @@ const chat = async (prompt) => {
 };
 
 module.exports = { textOnly, multimodal, chat };
+
+
