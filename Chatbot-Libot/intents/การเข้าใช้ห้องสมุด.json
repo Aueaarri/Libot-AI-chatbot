@@ -1,0 +1,35 @@
+{
+  "id": "dcd4899d-0496-427e-940c-62b66a7a231d",
+  "name": "การเข้าใช้ห้องสมุด",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "นักศึกษาสามารถใช้บัตรนักศึกษาหรือ QR Code บัตรนักศึกษาเสมือน Virtual Card จากเวป reg.kku.ac.th เพื่อสแกนเข้าประตู \nนักเรียนใช้บัตรนักเรียนในการเข้าใช้บริการ \nบุคคลทั่วไปใช้บัตรประชาชนติดต่อที่ประตูทางเข้า (ค่าบริการวันละ 20 บาท)\nStudents can use their student ID card or QR Code of Virtual Card from reg.kku.ac.th website to scan to enter the gate.\nStudents use their student ID card to use the service.\nGeneral public use their ID card to contact the entrance gate (service fee 20 baht per day)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

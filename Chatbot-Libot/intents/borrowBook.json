@@ -1,0 +1,35 @@
+{
+  "id": "440d3b28-6e24-45f2-8ebc-d71db40a1267",
+  "name": "borrowBook",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "การยืมหนังสือสามารถสืบค้นข้อมูลได้ที่ Web Opac เพื่อใช้สำหรับยืมหนังสือภายในห้องสมุดมหาวิทยาลัยขอนแก่นเท่านั้น ไปที่ลิงค์ https://opac.kku.ac.th/main/index.aspx                                                                                 \nBorrowing books You can search for information on Web Opac. It is used to search for resources in the KKU library only. It is suitable when you want to borrow a book to read. Go to the link https://opac.kku.ac.th/main/index.aspx"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

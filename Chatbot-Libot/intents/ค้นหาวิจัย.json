@@ -1,0 +1,35 @@
+{
+  "id": "b55f0a1e-6a7c-4154-ac13-310c9f4a0e31",
+  "name": "ค้นหาวิจัย",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1. ตัวเล่ม งานวิจัย วิทยานิพนธ์ สืบค้นที่ https://opac.kku.ac.th/main/index.aspx\n2. ค้นหา Full text  KKU ethesis ปี 58-ปัจจุบัน สืบค้นที่ https://kkuir.kku.ac.th/jspui\n3. ค้นหา Full text KKU ethesis ก่อนปี 58 สืบค้นที่ https://www.thailis.or.th/tdc/\n4. ค้นหา ejournal ebook จากฐานข้อมูลต่างๆ สืบค้นที่ https://libservice.kku.ac.th/database/\n* ค้น Fulltext จากภายนอกเครือข่าย KKU ค้นผ่าน vpn แนะนำให้ลงโปรแกรม vpn ก่อน แล้วตั้งค่าตามคู่มือในเว็บ https://vpn-portal.kku.ac.th/                                                                                                                                                 1. KKU Thesis (hard copy) https//opac.kku.ac.th/main/index.aspx\n2. Fulltext  after 2019 https://kkuir.kku.ac.th/jspui/\n3. Fulltext  before 2019 https://www.thailis.or.th/tdc/\n4. Search for ejournals ebooks databases. Search at https://kkudatabase.kku.ac.th/\n* search from outside KKU network via vpn"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

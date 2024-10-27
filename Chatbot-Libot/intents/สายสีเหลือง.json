@@ -1,0 +1,79 @@
+{
+  "id": "37ec85a7-3a12-4b22-b0e0-9977066efd72",
+  "name": "สายสีเหลือง",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2da0a0f8-c4f4-4bbd-bf9d-71333aacc775",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "3",
+          "platform": "line",
+          "imageUrl": "https://img5.pic.in.th/file/secure-sv1/462539409_8751593444954020_8678077913524998286_n.jpg",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "line",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "ภาพรวมเส้นทางการเดินรถ"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "line",
+          "imageUrl": "https://img2.pic.in.th/pic/462562074_520526594241530_4740587679185811045_n.jpg",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

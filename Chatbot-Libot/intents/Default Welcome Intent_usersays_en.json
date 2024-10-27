@@ -1,0 +1,93 @@
+[
+  {
+    "id": "102985f2-7afc-49c2-a405-3d1e936207fa",
+    "data": [
+      {
+        "text": "Hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71a9935d-f30b-4064-b078-034159615363",
+    "data": [
+      {
+        "text": "Hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1179e988-0bea-43dc-8655-50eb5aa5fbd2",
+    "data": [
+      {
+        "text": "สวัสดี",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "660bed15-f33e-40c9-8dc8-9889fc4e53ec",
+    "data": [
+      {
+        "text": "ดีจ้า",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e700865-f73b-49ac-b891-66c1f90670c5",
+    "data": [
+      {
+        "text": "หวัดดี",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a045acfb-2e8b-4072-a3ed-c731b893cc1c",
+    "data": [
+      {
+        "text": "สวัสดีครับ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "193dfcb4-95e1-4c7a-89a9-9247e4f9e981",
+    "data": [
+      {
+        "text": "สวัสดีค่ะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

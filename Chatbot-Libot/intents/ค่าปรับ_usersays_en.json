@@ -1,0 +1,73 @@
+[
+  {
+    "id": "5269d1e5-7afc-422c-bce1-873c9bd8e65b",
+    "data": [
+      {
+        "text": "ตรวจสอบค่าปรับ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d5cbc5d-c064-4a16-ad45-be73d56c4bf6",
+    "data": [
+      {
+        "text": "ค่าปรับ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40436ce8-f497-462b-8672-857ad2ecf8f5",
+    "data": [
+      {
+        "text": "ปรับ",
+        "userDefined": false
+      },
+      {
+        "text": "เงิน",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f71bbd85-dc2a-444f-adb1-258429db259a",
+    "data": [
+      {
+        "text": "ปรับ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ded5f3d5-5b9a-484e-b623-30108b268fd0",
+    "data": [
+      {
+        "text": "Check ค่าปรับ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

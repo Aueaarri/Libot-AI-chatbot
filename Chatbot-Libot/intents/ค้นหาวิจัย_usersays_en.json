@@ -1,0 +1,145 @@
+[
+  {
+    "id": "f18bd95f-73f5-4a72-bc8b-037f1c9e721b",
+    "data": [
+      {
+        "text": "ธีสิส",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e6222f5-c80d-49dd-9739-85060d17e079",
+    "data": [
+      {
+        "text": "Thesis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa2a779d-da8d-4b68-bea5-e6f77baabe9d",
+    "data": [
+      {
+        "text": "research",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "168c0ee6-458a-4c73-80c5-69f8780e7d48",
+    "data": [
+      {
+        "text": "Fulltext",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d517c114-f206-4806-8bbf-31d66d262dd4",
+    "data": [
+      {
+        "text": "วิทยานิพนธ์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b42042d0-92e1-4035-8f70-c20caa710150",
+    "data": [
+      {
+        "text": "วิจัย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47282a83-d4ee-42ff-a75f-02eed4926499",
+    "data": [
+      {
+        "text": "ejournals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de2d8202-10b0-4218-9b7c-6a8dd9dc0869",
+    "data": [
+      {
+        "text": "ebooks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "304d4d65-30ed-4081-9da7-2fb49807dcfe",
+    "data": [
+      {
+        "text": "วิจัย kku",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b782f988-b5e5-4e54-85ab-3705b4106e91",
+    "data": [
+      {
+        "text": "หาวิทยานิพนธ์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18781549-b899-47e5-90ec-e9e767aa7f85",
+    "data": [
+      {
+        "text": "หาวิจัย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

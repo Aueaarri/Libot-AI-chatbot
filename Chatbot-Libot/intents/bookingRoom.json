@@ -1,0 +1,50 @@
+{
+  "id": "870af005-c1a1-43ca-91e7-83c5ac1d858a",
+  "name": "bookingRoom",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4aab9347-da86-40ac-88cd-848590eb1562",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "ห้องประชุมกลุ่มย่อย (อาคาร 1 ชั้น 3) เปิดบริการ วันจันทร์-ศุกร์ เวลา 9.00-20.00 น.  และเสาร์-อาทิตย์ เวลา 09.00-17.00 น จองห้องประชุมได้ที่  https://room.kku.ac.th \n * กรุณาสแกน QR หรือแตะบัตรนักศึกษา ภายใน 15 นาที เพื่อยืนยัน การใช้ห้องทุกครั้ง *                                           \nGroup Study Room Service (Building 1, 3rd floor) Open Monday-Friday 9.00 am -8.00 pm and Saturday-Sunday 9.00 am-5.00 pm. Reserve a meeting room at https://room.kku.ac.th\n* Please scan the QR code or tap your student card within 15 minutes to confirm the use of the room every time. *"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

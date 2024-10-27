@@ -1,0 +1,41 @@
+[
+  {
+    "id": "0b6e0989-29cc-44fb-9997-298d477c28e5",
+    "data": [
+      {
+        "text": "คำถามบ่อยๆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8301aab1-2635-4620-9e24-c30ac97c2f7c",
+    "data": [
+      {
+        "text": "คำถามพบบ่อย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58a22456-d780-4448-953c-2e99bc69a59c",
+    "data": [
+      {
+        "text": "คำถามที่พบคำ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

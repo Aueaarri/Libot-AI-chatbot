@@ -1,0 +1,35 @@
+{
+  "id": "408bb110-e3b5-4bf1-ac00-98a8be66c63b",
+  "name": "ยืม Laptop",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "สอบถามข้อมูลเกี่ยวกับการบริการยืมโน้ตบุ๊ค สอบถามได้ที่ สำนักเทคโนโลยีดิจิทัล  (ตั้งแต่วันที่ 30 มิย 2566 เริ่มเปิดให้บริการยืม คืน โน๊ตบุ้คที่ สำนักเทคโนโลยีดิจิตัล ชั้น 5 อาคารศูนย์สารสนเทศ) หรือสอบถาม ที่ไลน์ LINE OPENCHAT https://kku.world/nb-support ได้เลยค่ะ"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

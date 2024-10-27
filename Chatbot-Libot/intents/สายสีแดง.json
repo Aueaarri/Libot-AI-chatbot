@@ -1,0 +1,79 @@
+{
+  "id": "6a6e53ff-c5dc-4556-9cbf-950e92b89bbc",
+  "name": "สายสีแดง",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0b09f4d4-9831-428d-b01f-c317fd84972f",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "3",
+          "platform": "line",
+          "imageUrl": "https://img2.pic.in.th/pic/462565115_1098768018251451_3145754188917635115_n.jpg",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "line",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "ภาพรวมเส้นทางการเดินรถ"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "line",
+          "imageUrl": "https://img2.pic.in.th/pic/462562074_520526594241530_4740587679185811045_n.jpg",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

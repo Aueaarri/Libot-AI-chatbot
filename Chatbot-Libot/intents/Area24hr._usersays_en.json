@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1168458f-a33e-4c54-be3e-07f38e72659f",
+    "data": [
+      {
+        "text": "พื้นที่นั่งอ่าน ",
+        "userDefined": false
+      },
+      {
+        "text": "24",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ชม.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae3da95c-e377-40bf-a06b-e067ead4a394",
+    "data": [
+      {
+        "text": "พื้นที่ ",
+        "userDefined": false
+      },
+      {
+        "text": "24  hr",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1194a716-626c-4e1d-b9da-17dbc152221b",
+    "data": [
+      {
+        "text": "พื้นที่ 24 ชั่วโมง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b2b9933-35b7-4830-baf9-c890d29fd0f0",
+    "data": [
+      {
+        "text": "เปิด",
+        "userDefined": false
+      },
+      {
+        "text": "ที่",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "ที่เปิดบริการ 24 ชั่วโมง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04a9f721-b5f3-48b1-b6a6-a24dac600019",
+    "data": [
+      {
+        "text": "พื้นที่24ชั่วโมง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "611cddf3-63b5-4bb8-bb97-b1cf47585ca5",
+    "data": [
+      {
+        "text": "เวลาเปิดพื้นที่นั่งอ่าน24ชั่วโมง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b45520e3-e496-4d1a-ace8-f4a0a3e421f5",
+    "data": [
+      {
+        "text": "24hr",
+        "meta": "@sys.duration",
+        "alias": "duration",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8762ef32-7b37-43b4-90f0-f4df2b26ff3a",
+    "data": [
+      {
+        "text": "พื้นที่นั่งอ่าน24้hr.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "id": "75d73800-161f-4a61-b8c9-02e3c74b8f97",
+    "data": [
+      {
+        "text": "ห้องสมุดเปิดวันไหนบ้าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2dac6a6c-f90d-43bd-b355-bf2929a70e28",
+    "data": [
+      {
+        "text": "open time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5aa1a432-7f25-44ec-b26c-93bd43f515b8",
+    "data": [
+      {
+        "text": "เวลาให้บริการ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6271235-ceac-4386-abab-a7138b92d7bb",
+    "data": [
+      {
+        "text": "เวลาเปิดห้องสมุด",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c52e8d9e-3263-4155-838f-f7d4ef7bd8df",
+    "data": [
+      {
+        "text": "เปิดกี่",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d634382e-b630-4b13-888a-b36d9b507477",
+    "data": [
+      {
+        "text": "เวลาทำการ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26e2ee7a-609e-4da3-9146-cef18f4b1239",
+    "data": [
+      {
+        "text": "ห้องสมุดเปิดกี่",
+        "userDefined": false
+      },
+      {
+        "text": "โมง",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

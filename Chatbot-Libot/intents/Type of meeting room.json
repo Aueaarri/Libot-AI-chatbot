@@ -1,0 +1,35 @@
+{
+  "id": "c5747ac6-085b-4329-bd16-5ee4ac936102",
+  "name": "Type of meeting room",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "รูปแบบห้องประชุม     \n                                                                                                                                                                      \n1.ห้องประชุมกลุ่มย่อย สถานที่ตั้ง : ชั้น 3 อาคาร 1 \nlink การจอง :https://room.kku.ac.th/web/backend\n\n2.จองห้องประชุม Mini Production House สถานที่ตั้ง : หอสมุดกลาง สำนักหอสมุด ชั้น 3 อาคาร 2  \nlink การจอง : https://kku.world/miniproduc2024\n\n3.ห้องเรียน EngLab For Film  สถานที่ตั้ง : ศูนย์การเรียนรู้ ห้องเรียน EngLab For Film สำนักหอสมุด ชั้น 3 อาคาร 2 ห้อง 2301C\nlink การจอง : https://kku.world/939ee"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

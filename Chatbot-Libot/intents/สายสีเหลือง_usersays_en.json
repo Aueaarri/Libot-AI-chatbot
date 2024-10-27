@@ -1,0 +1,23 @@
+[
+  {
+    "id": "a4f92e37-89a5-4d2d-b7a0-cebae7bfcb77",
+    "data": [
+      {
+        "text": "สายสี",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "เหลือง",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

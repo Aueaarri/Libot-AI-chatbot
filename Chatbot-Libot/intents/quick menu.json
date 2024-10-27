@@ -1,0 +1,146 @@
+{
+  "id": "4dc15f29-0899-4a98-bc7c-64bb93eaa49e",
+  "name": "quick menu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5533d476-3dfc-427a-a1fa-9112a4edd8e9",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2f1115ae-b1e5-4ba9-ba65-8c090c4bfdbf",
+          "name": "person1",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "text": "เรื่องที่ต้องการสอบถาม",
+              "type": "text",
+              "quickReply": {
+                "items": [
+                  {
+                    "type": "action",
+                    "action": {
+                      "label": "เวลาทำการ",
+                      "text": "เวลาทำการ",
+                      "type": "message"
+                    }
+                  },
+                  {
+                    "type": "action",
+                    "action": {
+                      "type": "message",
+                      "text": "ยืมหนังสือ",
+                      "label": "ยืมหนังสือ"
+                    }
+                  },
+                  {
+                    "action": {
+                      "type": "message",
+                      "text": "จองห้องประชุม",
+                      "label": "จองห้องประชุม"
+                    },
+                    "type": "action"
+                  },
+                  {
+                    "action": {
+                      "label": "พื้นที่อ่านหนังสือ 24 ชม.",
+                      "type": "message",
+                      "text": "พื้นที่อ่านหนังสือ 24 ชม."
+                    },
+                    "type": "action"
+                  },
+                  {
+                    "action": {
+                      "text": "ค้นหาวิจัย วิทยานิพนธ์",
+                      "type": "message",
+                      "label": "ค้นหาวิจัย วิทยานิพนธ์"
+                    },
+                    "type": "action"
+                  },
+                  {
+                    "type": "action",
+                    "action": {
+                      "label": "ตรวจสอบค่าปรับ",
+                      "text": "ตรวจสอบค่าปรับ",
+                      "type": "message"
+                    }
+                  },
+                  {
+                    "type": "action",
+                    "action": {
+                      "label": "ยืม notebook",
+                      "type": "message",
+                      "text": "ยืม notebook"
+                    }
+                  },
+                  {
+                    "action": {
+                      "text": "การเข้าใช้ห้องสมุด",
+                      "type": "message",
+                      "label": "การเข้าใช้ห้องสมุด"
+                    },
+                    "type": "action"
+                  }
+                ]
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

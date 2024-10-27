@@ -1,0 +1,51 @@
+{
+  "id": "4fd52f0f-9b41-434a-ad56-a0540c645ae2",
+  "name": "Location",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "สำนักหอสมุด มหาวิทยาลัยขอนแก่น ตั้งอยู่ที่ ถนน มอดินแดง ตรงข้ามศูนย์อาหารและบริการ 1 (คอมเพล็กซ์)"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "line": {
+              "title": "สำนักหอสมุด มหาวิทยาลัยขอนแก่น",
+              "address": "123 ม.16 ถ.มิตรภาพ ต.ในเมือง อ.เมือง จ.ขอนแก่น",
+              "longitude": 102.8217405,
+              "latitude": 16.476623,
+              "type": "location"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

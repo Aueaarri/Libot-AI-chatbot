@@ -1,0 +1,50 @@
+{
+  "id": "7ed29b26-0ff7-48f5-99e2-9e552d717c6f",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "สวัสดีค่ะ นี่คือ Libot (ระบบตอบกลับอัตโนมัติ) หากต้องการสอบถาม\nสามารถเลือกเมนู FAQ เพื่อเลือกหัวข้อที่ต้องการสอบถาม\nหรือเลือกเมนู Live Chat หากต้องการติดต่อเจ้าหน้าที่ \nหรือไปที่ https://www.m.me/KKULib"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "สวัสดีค่ะ",
+            "สบายดีไหมคะ"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

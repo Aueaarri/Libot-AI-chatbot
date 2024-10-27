@@ -1,0 +1,80 @@
+[
+  {
+    "id": "78bf4708-41e2-4cf3-9a54-85fe2e8f6182",
+    "data": [
+      {
+        "text": "เข้า",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "854671c2-d94e-4da3-b905-f3746e015fbb",
+    "data": [
+      {
+        "text": "อยากเข้าไปด้านใน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd571987-29d3-4311-ace7-4963debd3fb9",
+    "data": [
+      {
+        "text": "วิธีเข้า",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39490d77-f8bc-478a-b63f-7bcbec399ad3",
+    "data": [
+      {
+        "text": "วิธีเข้าไปใช้ห้องสมุด",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e2f74fe-aff7-4bb5-8652-40346abfc74e",
+    "data": [
+      {
+        "text": "อยากเข้าห้องสมุดต้องทำยังไง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfaccee3-fd87-4ec5-8e5c-a2d570d0d8bf",
+    "data": [
+      {
+        "text": "วิธีการเข้าห้องสมุด",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "02d23920-c87f-4df0-b9f6-d40625784877",
+    "data": [
+      {
+        "text": "booking room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa0c4a86-61e5-4a2a-8f38-f17485db5a7d",
+    "data": [
+      {
+        "text": "จองห้อง",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7396c22-a527-4327-baaa-0e60ac5d57c3",
+    "data": [
+      {
+        "text": "จองห้องประชุมล่วงหน้า",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22bd54e8-f997-4908-98a7-5030e3b4eed4",
+    "data": [
+      {
+        "text": "จอง",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e90eadde-9672-41d6-befd-f6c551ea7b98",
+    "data": [
+      {
+        "text": "จองห้องประชุม",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4c09bbe-a5d9-4355-a640-4ab76297824f",
+    "data": [
+      {
+        "text": "การ",
+        "userDefined": false
+      },
+      {
+        "text": "จองห้อง",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " meetinng",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e90a6391-4b81-4793-9c97-4e22fd6ba1c7",
+    "data": [
+      {
+        "text": "วิธีจองห้องประชุม",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

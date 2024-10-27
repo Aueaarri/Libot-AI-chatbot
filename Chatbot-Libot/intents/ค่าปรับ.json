@@ -1,0 +1,50 @@
+{
+  "id": "bb7f7eb9-c650-41e5-a4fd-ea1723a34b20",
+  "name": "ค่าปรับ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "797bb3b3-5b55-43e2-aad6-ea633f73ce36",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1. ไปที่ URL: http://opac.kku.ac.th/Member/Login.aspx\n2. คลิกปุ่ม KKU Single Sign On (SSO) เพื่อเข้าสู่ระบบสมาชิก (สำหรับบุคลากรและนักศึกษา มข.)  \n3. คลิกเข้าสู่ระบบสมาชิกเพื่อทำการตรวจสอบค่าปรับ ที่เมนู Fine                                                                                         \n1. Go to URL: http://opac.kku.ac.th/Member/Login.aspx\n2. Click the KKU Single Sign On (SSO) button to enter the member system (for KKU personnel and students)\n3. Click to enter the member system to check the fine in the Fine menu"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

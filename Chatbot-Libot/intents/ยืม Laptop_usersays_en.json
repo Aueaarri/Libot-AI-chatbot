@@ -1,0 +1,106 @@
+[
+  {
+    "id": "ae2a86b7-6218-4706-969a-51cb885687b4",
+    "data": [
+      {
+        "text": "บริกาารยืมโน้ตบุ๊ค",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32a425cd-2d85-43ae-8612-c8ac5fb710ca",
+    "data": [
+      {
+        "text": "ยืมนบ.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96a7a966-f494-4326-ae28-b4ebf6e85743",
+    "data": [
+      {
+        "text": "การยืมโน้ตบุ๊ค",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4b35a8b-d301-459b-8307-a16f3d7ad5cc",
+    "data": [
+      {
+        "text": "ยืมโน้ตบุ๊ค",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f42ef612-799f-4b5d-a7f0-cf2bf53fceff",
+    "data": [
+      {
+        "text": "ยืม  notebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "351d53cb-331e-487f-a6d6-933fa7dd9d4d",
+    "data": [
+      {
+        "text": "ยืม pc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb3c9bd0-1e72-4851-a6aa-8cbafcbdc59c",
+    "data": [
+      {
+        "text": "ยืมแล็ปท็อป",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93e627ca-9a58-438a-8aca-d4d6eb6f1f11",
+    "data": [
+      {
+        "text": "วิธียืมโน้ตบุ๊ค",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

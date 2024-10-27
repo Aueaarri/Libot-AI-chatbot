@@ -1,0 +1,78 @@
+{
+  "id": "10def042-42b0-4c9d-be02-3b0c7ab49e55",
+  "name": "Area24hr.",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ef6a7818-068f-4bde-8b07-16b0f2119b6c",
+          "name": "duration",
+          "required": false,
+          "dataType": "@sys.duration",
+          "value": "$duration",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4113373d-a734-433a-abfe-8aff07b6842d",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "43ef8193-7954-4f11-b3c5-6929b037c07c",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "ประกาศแจ้งการเปิดให้บริการพื้นที่นั่งอ่าน 24 ชั่วโมง (ช่วงสอบกลางภาค 1/2567) ตั้งแต่วันที่ 30 ก.ค.-9 ส.ค. 2567  โดยมีรายละเอียดการเปิดบริการดังนี้ \n1. พื้นที่นั่งอ่าน 24 ชั่วโมง ได้แก่ พื้นที่ห้อง 1201 1202 1301 ห้องประชุมกลุ่มย่อย (1302) เปิดให้บริการเวลา 11.00 น. ถึง 8.00 น. ของวันรุ่งขึ้น (ปิดให้บริการเพื่อทำความสะอาดและฆ่าเชื้อ เวลา 8.00-11-00 น.) นอกเหนือจากพื้นที่นี้เปิดตามเวลาทำการปกติ \n2. การเข้าใช้ห้องสมุด อาคาร 1 ในช่วงเวลา 20.00-8.00 น. ให้ใช้ gate 1 เท่านั้น \n3. พื้นที่นั่งอ่าน 24 ชม. หลังเวลา 20.30 น. ขอสงวนสิทธิ์เฉพาะนักศึกษา และบุคลากรของมหาวิทยาลัยขอนแก่นเท่านั้น iy\n4. การเข้าใช้บริการ ใช้บัตรนักศึกษาหรือบัตรนักศึกษาเสมือน (KKU virtual card )จาก reg.kku.ac.th เข้าใช้บริการเท่านั้น"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

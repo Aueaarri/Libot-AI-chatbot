@@ -1,0 +1,64 @@
+{
+  "id": "76df0f7e-f7d6-4d16-9b75-c2681de9436a",
+  "name": "สายสีเขียว",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "3",
+          "platform": "line",
+          "imageUrl": "https://img5.pic.in.th/file/secure-sv1/462542203_1084574273179342_5408271816720053659_n.jpg",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "line",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "ภาพรวมเส้นทางการเดินรถ"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "line",
+          "imageUrl": "https://img2.pic.in.th/pic/462562074_520526594241530_4740587679185811045_n.jpg",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

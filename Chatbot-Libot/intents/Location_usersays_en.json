@@ -1,0 +1,132 @@
+[
+  {
+    "id": "be001817-2dff-4d6d-bf89-f56e784c63c9",
+    "data": [
+      {
+        "text": "ที่ตั้งห้องสมุดอยู่ตรงไหน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42e1d7e8-a8f3-4697-80e2-5bf99c6af2d0",
+    "data": [
+      {
+        "text": "ห้องสมุดอยู่แถวไหน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7457ac3-d969-44fc-989e-6580d1989fcd",
+    "data": [
+      {
+        "text": "ห้องสมุดอยู่ตรงไหน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6cd332f-1f85-413b-a718-88fa0f25111a",
+    "data": [
+      {
+        "text": "ที่ตั้งห้องสมุดอยู่ที่ไหน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42f33f49-f3c5-42ce-9edf-2fe9b3e98bf1",
+    "data": [
+      {
+        "text": "อยู่แถวไหน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56d57d35-e55c-4629-abfa-d6d9717608f0",
+    "data": [
+      {
+        "text": "อยู่ที่ไหน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9b4dda4-659b-425f-84d9-0e48c889f310",
+    "data": [
+      {
+        "text": "ที่ตั้ง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f9bcc19-e7dc-47f5-901c-544a347a4566",
+    "data": [
+      {
+        "text": "ห้องสมุดอยู่ที่ไหน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c15f911e-cd0e-4027-8ca7-01bc3201e01c",
+    "data": [
+      {
+        "text": "where is it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdd680f5-80c3-4011-83c2-b95032e20af7",
+    "data": [
+      {
+        "text": "Location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "id": "199c6b80-a8fe-4244-8162-6089b3fcefe7",
+  "name": "สายสีน้ำเงิน",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ce0cbae1-b0f0-4e05-8a1f-955ebca0cea1",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "3",
+          "platform": "line",
+          "imageUrl": "https://img2.pic.in.th/pic/462537450_891442315965671_2653264342706508639_n.jpg",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "line",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "ภาพรวมเส้นทางการเดินรถ"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "line",
+          "imageUrl": "https://img2.pic.in.th/pic/462562074_520526594241530_4740587679185811045_n.jpg",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

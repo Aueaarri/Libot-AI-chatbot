@@ -1,0 +1,44 @@
+[
+  {
+    "id": "482ca63e-2fc8-4106-b1d2-3012d3b4b236",
+    "data": [
+      {
+        "text": "คำถาม",
+        "userDefined": false
+      },
+      {
+        "text": "ที่",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "พบ",
+        "userDefined": false
+      },
+      {
+        "text": "บ่อย",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a27b04f1-ede2-49e3-bb73-bc9a5d7eaef1",
+    "data": [
+      {
+        "text": "คำถาม",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

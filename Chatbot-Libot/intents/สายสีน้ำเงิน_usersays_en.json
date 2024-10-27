@@ -1,0 +1,21 @@
+[
+  {
+    "id": "935ab195-4504-493f-923d-868077152a66",
+    "data": [
+      {
+        "text": "สาย",
+        "userDefined": false
+      },
+      {
+        "text": "สีน้ำเงิน",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

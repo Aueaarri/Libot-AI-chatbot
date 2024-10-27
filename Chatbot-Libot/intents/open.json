@@ -1,0 +1,50 @@
+{
+  "id": "279a5b93-d28f-4f5b-a16c-2bfe6a6323b3",
+  "name": "open",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f463682c-9ab8-48b1-9eef-a557bf34de3e",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "เปิดบริการพื้นที่นั่งอ่านหนังสือทุกวัน                                                                                                                                              วันจันทร์-ศุกร์ เวลา 08.30-20.00 น.\nวันเสาร์-อาทิตย์ เวลา 09.00-17.00 น.                                                                                                                            \n(ยกเว้นวันหยุดนักขัตฤกษ์)\nOpen daily except public holidays\nMonday-Friday: 8:30 AM to 8:00 PM\nSaturday-Sunday: 9:00 AM to 5:00 PM"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

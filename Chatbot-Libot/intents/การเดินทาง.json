@@ -1,0 +1,538 @@
+{
+  "id": "b36c6d07-7cd8-47ed-96d0-e2b535806563",
+  "name": "การเดินทาง",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "type": "flex",
+              "contents": {
+                "type": "bubble",
+                "size": "micro",
+                "direction": "ltr",
+                "body": {
+                  "layout": "vertical",
+                  "type": "box",
+                  "contents": [
+                    {
+                      "align": "center",
+                      "type": "text",
+                      "contents": [],
+                      "weight": "regular",
+                      "text": "ค้นหาตำแหน่งปัจจุบันของคุณ",
+                      "size": "sm"
+                    }
+                  ]
+                },
+                "footer": {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "style": "secondary",
+                      "color": "#C4C8C3FF",
+                      "margin": "sm",
+                      "height": "sm",
+                      "gravity": "center",
+                      "action": {
+                        "type": "uri",
+                        "uri": "https://line.me/R/nv/location/",
+                        "label": "Your Location"
+                      },
+                      "type": "button"
+                    }
+                  ]
+                },
+                "hero": {
+                  "align": "center",
+                  "url": "https://img2.pic.in.th/pic/KST-2.png",
+                  "type": "image",
+                  "aspectRatio": "1.51:1",
+                  "size": "full",
+                  "aspectMode": "fit"
+                }
+              },
+              "altText": "Flex Message"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "line",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "เส้นทางที่แนะนำ \n\nหากตำแหน่งปัจจบันของคุณอยู่ โซน โนนม่วง หลังมอ  หอแปดหลังหรือแฟลตศูนย์แพทย์ --\u003e สายสีเงิน\n\nหากตำแหน่งปัจจบันของคุณอยู่ โซน คณะนิติศาสตร์ ประตูสีฐาน  อุทยานการเกษตร --\u003e สายสีเขียว\n\nหากตำแหน่งปัจจบันของคุณอยู่ โซน คณะสถาปัตย์ คณะแพทย์ กังสดาล --\u003e สายสีเหลือง\n\nหากตำแหน่งปัจจบันของคุณอยู่ โซน ศาลเจ้าพ่อมอดินแดง วิทยาลัยการปกครองท้องถิ่น คณะพยาบาล --\u003e สายสีเเดง\n\nโดยทุกสายผ่าน KKU Library หากคุณต้องการข้อมูลเส้นทางการเดินรถแต่ละสายเพิ่มเติม สามารถ click ที่เส้นทางการเดินรถ"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "contents": {
+                "contents": [
+                  {
+                    "type": "bubble",
+                    "hero": {
+                      "aspectRatio": "20:13",
+                      "size": "full",
+                      "type": "image",
+                      "action": {
+                        "type": "uri",
+                        "label": "Line",
+                        "uri": "https://linecorp.com/"
+                      },
+                      "url": "https://img2.pic.in.th/pic/364c6107d64fd88c6.png",
+                      "aspectMode": "cover"
+                    },
+                    "size": "kilo",
+                    "body": {
+                      "layout": "vertical",
+                      "position": "relative",
+                      "contents": [
+                        {
+                          "contents": [],
+                          "text": "สายสีเหลือง",
+                          "weight": "bold",
+                          "color": "#D9BC14FF",
+                          "type": "text",
+                          "size": "xl"
+                        },
+                        {
+                          "layout": "vertical",
+                          "margin": "xl",
+                          "spacing": "sm",
+                          "contents": [
+                            {
+                              "layout": "baseline",
+                              "type": "box",
+                              "contents": [
+                                {
+                                  "text": "Place",
+                                  "size": "sm",
+                                  "color": "#AAAAAA",
+                                  "contents": [],
+                                  "type": "text"
+                                },
+                                {
+                                  "wrap": true,
+                                  "type": "text",
+                                  "size": "sm",
+                                  "text": "ลงป้าย Y36 ",
+                                  "color": "#666666",
+                                  "contents": []
+                                }
+                              ],
+                              "spacing": "sm"
+                            },
+                            {
+                              "spacing": "sm",
+                              "layout": "baseline",
+                              "type": "box",
+                              "contents": [
+                                {
+                                  "size": "sm",
+                                  "color": "#AAAAAA",
+                                  "text": "Time",
+                                  "type": "text",
+                                  "contents": []
+                                },
+                                {
+                                  "text": "07:00 - 21:00",
+                                  "size": "sm",
+                                  "contents": [],
+                                  "type": "text",
+                                  "color": "#666666",
+                                  "wrap": true
+                                }
+                              ]
+                            }
+                          ],
+                          "type": "box"
+                        }
+                      ],
+                      "type": "box"
+                    },
+                    "footer": {
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "action": {
+                            "text": "สายสีเหลือง",
+                            "type": "message",
+                            "label": "เส้นทางการเดินรถ"
+                          },
+                          "style": "link",
+                          "type": "button",
+                          "height": "sm"
+                        },
+                        {
+                          "type": "spacer",
+                          "size": "sm"
+                        }
+                      ],
+                      "spacing": "sm",
+                      "type": "box"
+                    }
+                  },
+                  {
+                    "body": {
+                      "type": "box",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "สายสีแดง",
+                          "color": "#E01833FF",
+                          "weight": "bold",
+                          "size": "xl",
+                          "contents": []
+                        },
+                        {
+                          "contents": [
+                            {
+                              "spacing": "sm",
+                              "contents": [
+                                {
+                                  "text": "Place",
+                                  "color": "#AAAAAA",
+                                  "type": "text",
+                                  "size": "sm",
+                                  "contents": []
+                                },
+                                {
+                                  "text": "ลงป้าย R7 หรือป้าย R25",
+                                  "size": "sm",
+                                  "wrap": true,
+                                  "type": "text",
+                                  "contents": [],
+                                  "color": "#666666"
+                                }
+                              ],
+                              "layout": "baseline",
+                              "type": "box"
+                            },
+                            {
+                              "contents": [
+                                {
+                                  "contents": [],
+                                  "type": "text",
+                                  "text": "Time",
+                                  "color": "#AAAAAA",
+                                  "size": "sm"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "07:00 - 21:00",
+                                  "size": "sm",
+                                  "wrap": true,
+                                  "color": "#666666",
+                                  "contents": []
+                                }
+                              ],
+                              "layout": "baseline",
+                              "spacing": "sm",
+                              "type": "box"
+                            }
+                          ],
+                          "margin": "lg",
+                          "spacing": "sm",
+                          "layout": "vertical",
+                          "type": "box"
+                        }
+                      ],
+                      "layout": "vertical"
+                    },
+                    "type": "bubble",
+                    "footer": {
+                      "layout": "vertical",
+                      "type": "box",
+                      "spacing": "sm",
+                      "contents": [
+                        {
+                          "style": "link",
+                          "action": {
+                            "label": "เส้นทางการเดินรถ",
+                            "type": "message",
+                            "text": "สายสีแดง"
+                          },
+                          "type": "button",
+                          "height": "sm"
+                        },
+                        {
+                          "type": "spacer",
+                          "size": "sm"
+                        }
+                      ]
+                    },
+                    "size": "kilo",
+                    "hero": {
+                      "url": "https://img5.pic.in.th/file/secure-sv1/-42dcb537a250c8dd2.png",
+                      "type": "image",
+                      "aspectRatio": "20:13",
+                      "action": {
+                        "uri": "https://linecorp.com/",
+                        "label": "Line",
+                        "type": "uri"
+                      },
+                      "size": "full",
+                      "aspectMode": "cover"
+                    }
+                  },
+                  {
+                    "footer": {
+                      "spacing": "sm",
+                      "layout": "vertical",
+                      "type": "box",
+                      "contents": [
+                        {
+                          "action": {
+                            "type": "message",
+                            "label": "เส้นทางการเดินรถ",
+                            "text": "สายสีน้ำเงิน"
+                          },
+                          "type": "button",
+                          "style": "link",
+                          "height": "sm"
+                        },
+                        {
+                          "size": "sm",
+                          "type": "spacer"
+                        }
+                      ]
+                    },
+                    "body": {
+                      "layout": "vertical",
+                      "type": "box",
+                      "contents": [
+                        {
+                          "color": "#296CEBFF",
+                          "size": "xl",
+                          "type": "text",
+                          "weight": "bold",
+                          "text": "สายสีน้ำเงิน",
+                          "contents": []
+                        },
+                        {
+                          "type": "box",
+                          "margin": "lg",
+                          "spacing": "sm",
+                          "layout": "vertical",
+                          "contents": [
+                            {
+                              "contents": [
+                                {
+                                  "size": "sm",
+                                  "type": "text",
+                                  "color": "#AAAAAA",
+                                  "contents": [],
+                                  "text": "Place"
+                                },
+                                {
+                                  "wrap": true,
+                                  "contents": [],
+                                  "size": "sm",
+                                  "text": "ลงป้าย B18 หรือ B38",
+                                  "type": "text",
+                                  "color": "#666666"
+                                }
+                              ],
+                              "spacing": "sm",
+                              "layout": "baseline",
+                              "type": "box"
+                            },
+                            {
+                              "contents": [
+                                {
+                                  "size": "sm",
+                                  "color": "#AAAAAA",
+                                  "type": "text",
+                                  "contents": [],
+                                  "text": "Time"
+                                },
+                                {
+                                  "size": "sm",
+                                  "text": "07:00 - 21:00",
+                                  "color": "#666666",
+                                  "type": "text",
+                                  "contents": [],
+                                  "wrap": true
+                                }
+                              ],
+                              "type": "box",
+                              "spacing": "sm",
+                              "layout": "baseline"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "type": "bubble",
+                    "size": "kilo",
+                    "hero": {
+                      "aspectMode": "cover",
+                      "size": "full",
+                      "url": "https://img5.pic.in.th/file/secure-sv1/-62978e6665635870c.png",
+                      "action": {
+                        "type": "uri",
+                        "label": "Line",
+                        "uri": "https://linecorp.com/"
+                      },
+                      "aspectRatio": "20:13",
+                      "type": "image"
+                    }
+                  },
+                  {
+                    "footer": {
+                      "type": "box",
+                      "spacing": "sm",
+                      "contents": [
+                        {
+                          "action": {
+                            "type": "message",
+                            "label": "เส้นทางการเดินรถ",
+                            "text": "สายสีเขียว"
+                          },
+                          "height": "sm",
+                          "type": "button",
+                          "style": "link"
+                        },
+                        {
+                          "type": "spacer",
+                          "size": "sm"
+                        }
+                      ],
+                      "layout": "vertical"
+                    },
+                    "size": "kilo",
+                    "hero": {
+                      "action": {
+                        "uri": "https://linecorp.com/",
+                        "label": "Line",
+                        "type": "uri"
+                      },
+                      "aspectRatio": "20:13",
+                      "url": "https://img2.pic.in.th/pic/-56f63953219ce72d8.png",
+                      "type": "image",
+                      "aspectMode": "cover",
+                      "size": "full"
+                    },
+                    "type": "bubble",
+                    "body": {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "สายสีเขียว",
+                          "contents": [],
+                          "color": "#139E39FF",
+                          "weight": "bold",
+                          "size": "xl"
+                        },
+                        {
+                          "contents": [
+                            {
+                              "layout": "baseline",
+                              "type": "box",
+                              "spacing": "sm",
+                              "contents": [
+                                {
+                                  "text": "Place",
+                                  "type": "text",
+                                  "size": "sm",
+                                  "contents": [],
+                                  "color": "#AAAAAA"
+                                },
+                                {
+                                  "size": "sm",
+                                  "text": "ลงป้าย G27 หรือป้าย G18",
+                                  "type": "text",
+                                  "contents": [],
+                                  "color": "#666666",
+                                  "wrap": true
+                                }
+                              ]
+                            },
+                            {
+                              "contents": [
+                                {
+                                  "type": "text",
+                                  "size": "sm",
+                                  "contents": [],
+                                  "color": "#AAAAAA",
+                                  "text": "Time"
+                                },
+                                {
+                                  "color": "#666666",
+                                  "contents": [],
+                                  "size": "sm",
+                                  "text": "07:00 - 21:00",
+                                  "wrap": true,
+                                  "type": "text"
+                                }
+                              ],
+                              "type": "box",
+                              "layout": "baseline",
+                              "spacing": "sm"
+                            }
+                          ],
+                          "layout": "vertical",
+                          "margin": "lg",
+                          "spacing": "sm",
+                          "type": "box"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "type": "carousel"
+              },
+              "altText": "Flex Message",
+              "type": "flex"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "a420f144-9e75-4a03-8bb6-52b8bc5a8685",
+    "data": [
+      {
+        "text": "ยืม",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa4179b2-8054-44ac-aa26-d4b4d82c46c0",
+    "data": [
+      {
+        "text": "ยืมหนังสือต้องทำยังไงบ้าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77d9c2b0-aacc-42e4-9a75-c296b683a481",
+    "data": [
+      {
+        "text": "วิธียืมหนังสือ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c693ee0-c8bd-433f-98c6-8841d0cc18c0",
+    "data": [
+      {
+        "text": "ยืมหนังสืออย่างไร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "505884d5-c6ea-4db0-a7b5-a14da205b238",
+    "data": [
+      {
+        "text": "การยืมหนังสือ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "100ef6ac-687f-40ae-943e-52ade954abb4",
+    "data": [
+      {
+        "text": "ยืมหนังสือ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
