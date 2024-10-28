@@ -1,4 +1,4 @@
-const express = require('express');
+/*const express = require('express');
 const app = express();
 const PORT = 3000;
 
@@ -38,6 +38,21 @@ app.get('/api/info', (req, res) => {
 });
 
 // เริ่มเซิร์ฟเวอร์
+app.listen(PORT, () => {
+  console.log(`Server is running at http://localhost:${PORT}`);
+});*/
+
+
+import express from 'express';
+import data from './data.json' assert { type: 'json' };
+
+const app = express();
+const PORT = 5002;
+
+app.get('/api/info', (req, res) => {
+  res.json(data);
+});
+
 app.listen(PORT, () => {
   console.log(`Server is running at http://localhost:${PORT}`);
 });
